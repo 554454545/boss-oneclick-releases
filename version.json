@@ -1,11 +1,11 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "notes": "1.3：点「投」改为先发简历图片、再发文字（输入框里原有的内容会先保存，发完放回去）；相册勾选更稳，不会把已勾上的图点掉；首页说明更新：联网只用于检查 App 更新。",
+  "versionCode": 5,
+  "versionName": "1.4",
+  "notes": "1.4：更快（一次投递约 2–3 秒）；修复 ColorOS 相册偶发识别失败，发文字前自动回到聊天页；检查更新更可靠；新图标、改名 Judy；Material 3 新界面 + 深色模式；简历图可全屏缩放预览；权限都正常时自动折叠。",
   "apk": [
-    "https://raw.githubusercontent.com/554454545/boss-oneclick-releases/main/apk/BOSS-oneclick-1.3.apk",
-    "https://fastly.jsdelivr.net/gh/554454545/boss-oneclick-releases@main/apk/BOSS-oneclick-1.3.apk",
-    "https://cdn.jsdelivr.net/gh/554454545/boss-oneclick-releases@main/apk/BOSS-oneclick-1.3.apk"
+    "https://raw.githubusercontent.com/554454545/boss-oneclick-releases/main/apk/BOSS-oneclick-1.4.apk",
+    "https://fastly.jsdelivr.net/gh/554454545/boss-oneclick-releases@main/apk/BOSS-oneclick-1.4.apk",
+    "https://cdn.jsdelivr.net/gh/554454545/boss-oneclick-releases@main/apk/BOSS-oneclick-1.4.apk"
   ],
-  "sha256": "f2d8255cab0e3d9317a672e999245ceabd596dd24231b4bd5e333cf1ef2f04c2"
+  "sha256": "baf36a74bfd3c383fafbefbc989716e872f489412ef210f841508cfb169d1cb1"
 }
