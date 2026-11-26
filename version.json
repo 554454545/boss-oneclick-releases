@@ -1,0 +1,11 @@
+{
+  "versionCode": 3,
+  "versionName": "1.2",
+  "notes": "1.2：支持 ColorOS 系统照片选择器（跳过拍照格、勾选最新一张、点「添加」）；发送按钮/+号多重兜底；应用内自动更新；更新后若无障碍被关闭，首页醒目提示并一键修复。",
+  "apk": [
+    "https://raw.githubusercontent.com/554454545/boss-oneclick-releases/main/apk/BOSS-oneclick-1.2.apk",
+    "https://fastly.jsdelivr.net/gh/554454545/boss-oneclick-releases@main/apk/BOSS-oneclick-1.2.apk",
+    "https://cdn.jsdelivr.net/gh/554454545/boss-oneclick-releases@main/apk/BOSS-oneclick-1.2.apk"
+  ],
+  "sha256": "9ac29a869d9a1e8454095bb076ef59c83c4a8f9b34ec5ac260eed1ef2d145643"
+}
