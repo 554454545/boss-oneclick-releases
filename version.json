@@ -1,11 +1,11 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "notes": "1.4：更快（一次投递约 2–3 秒）；修复 ColorOS 相册偶发识别失败，发文字前自动回到聊天页；检查更新更可靠；新图标、改名 Judy；Material 3 新界面 + 深色模式；简历图可全屏缩放预览；权限都正常时自动折叠。",
+  "versionCode": 6,
+  "versionName": "1.5",
+  "notes": "1.5：图片没发出去就不再发文字，失败会放回草稿并提示原因；修复 Android 16 / ColorOS 相册认不出格子（「拍摄于」不再被当成拍照格，认不出时按位置点第一张，自动处理访问照片权限，超时先记日志）；更新后尽量自动恢复无障碍，否则一键打开设置即可。",
   "apk": [
-    "https://raw.githubusercontent.com/554454545/boss-oneclick-releases/main/apk/BOSS-oneclick-1.4.apk",
-    "https://fastly.jsdelivr.net/gh/554454545/boss-oneclick-releases@main/apk/BOSS-oneclick-1.4.apk",
-    "https://cdn.jsdelivr.net/gh/554454545/boss-oneclick-releases@main/apk/BOSS-oneclick-1.4.apk"
+    "https://raw.githubusercontent.com/554454545/boss-oneclick-releases/main/apk/BOSS-oneclick-1.5.apk",
+    "https://fastly.jsdelivr.net/gh/554454545/boss-oneclick-releases@main/apk/BOSS-oneclick-1.5.apk",
+    "https://cdn.jsdelivr.net/gh/554454545/boss-oneclick-releases@main/apk/BOSS-oneclick-1.5.apk"
   ],
-  "sha256": "baf36a74bfd3c383fafbefbc989716e872f489412ef210f841508cfb169d1cb1"
+  "sha256": "1d3b23c26732cebec9f346a530109fc4f5c04979d8c9b8737b1f4a9c9b477f4e"
 }
